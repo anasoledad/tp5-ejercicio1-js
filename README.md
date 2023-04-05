@@ -1,4 +1,4 @@
-# Trabajo Práctico N3: Arreglos y Funciones 📄
+# Números mágicos 📄
 
 ![JavaScript](https://i.pinimg.com/564x/d7/70/59/d770590a77a0dc2a4f704eb52ebdb820.jpg)
 
